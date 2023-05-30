@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dpl-group: this account is used to host our company's code
+- 👀 I’m interested in frontend tech to create my marketing site
+- 🌱 I’m currently learning how to manage content
+- 📫 How to reach me: admin@dplgroup.com.au
